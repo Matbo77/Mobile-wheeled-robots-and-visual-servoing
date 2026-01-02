@@ -1,7 +1,7 @@
 # Mobile-wheeled-robots-and-visual-servoing
 
  <a href= "https://img.shields.io/badge/github-repo-blue?logo=github"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Badge"/></a>
-<a href= "https://img.shields.io/badge/CoppeliaSim-v4.10orange"> <img src="https://img.shields.io/badge/CoppeliaSim-v4.10orange" alt="Coppelia Badge"/></a>
+<a href= "https://img.shields.io/badge/CoppeliaSim-v4.10-orange"> <img src="https://img.shields.io/badge/CoppeliaSim-v4.10-orange" alt="Coppelia Badge"/></a>
 <a href= "https://img.shields.io/badge/License-Apache--2.0-yellow"> <img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License Badge"/></a>
 
 
