@@ -21,17 +21,17 @@ The lab subject is divided into 4 parts :
 1. **Control of an omnidirectional robot**
 <div align="center">
 <img alt="Illustration" src="1_Control of an omnidirectional robot/omnidirectionalControl_start.gif" width="50%" height="50%"> </img>
+</div>
 
 2. **Control of a differential drive robot**
-
+<div align="center">
 <img alt="Illustration" src="2_Control of a differential drive robot/monocycle_suiviTrajectoire_start.gif" width="50%" height="50%"> </img>
 <img alt="Illustration" src="2_Control of a differential drive robot/monocycle_waypoints_start.gif" width="50%" height="50%"> </img>
+</div>
 
 3. **Potential fields for trajectory planning**
-
-
+<div align="center">
 <img alt="Illustration" src="3_Potential fields for trajectory planning/3_potentials_start_update_2026.gif" width="50%" height="50%"> </img>
-
 </div>
 
 
