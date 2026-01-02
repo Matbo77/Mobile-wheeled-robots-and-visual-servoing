@@ -39,6 +39,12 @@ The lab subject is divided into 4 parts :
 <img alt="Illustration" src="3_Potential fields for trajectory planning/3_potentials_start_update_2026.gif" width="50%" height="50%"> </img>
 </div>
 
+Explanations:
+At each iteration of the algorithm, we take stock of some artifical attractive forces (final reference point) and repulsive forces (obstacles such as walls) acting on the robot. We calculate the direction of the resulting artificial force and multiply it by an amplitude equal to the distance to be traveled in one time step (distance = speed × time step).
+This gives us an intermediate point at each iteration, and we use the controller from the previous parts to guide the robot to each intermediate point and finally to the final attractive point.
+The parameters of the attractive and repulsive forces must be carefully chosen, otherwise the robot may not reach the attractive point, the end point, and remain stuck in a local minimum potential between two obstacles.
+To better understand the robot's intermediate movements and help adjust the configurable force parameters, a Goal indicator has been added, which corresponds to the intermediate point to be reached. 
+
 
 
 
