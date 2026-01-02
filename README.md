@@ -21,7 +21,7 @@ The lab subject is divided into 4 parts :
 3. **Potential fields for trajectory planning**
 
 
-<img alt="Illustration" src="3_Potential fields for trajectory planning/3_potentials_start_update_2026.gif" width="100%" height="100%"> </img>
+<img alt="Illustration" src="3_Potential fields for trajectory planning/3_potentials_start_update_2026.gif" width="50%" height="50%"> </img>
 
 
 
