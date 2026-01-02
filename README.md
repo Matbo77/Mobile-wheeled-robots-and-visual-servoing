@@ -6,7 +6,7 @@
 <a href= "https://img.shields.io/badge/License-Apache--2.0-yellow"> <img src="https://img.shields.io/badge/License-Apache--2.0-yellow" alt="License Badge"/></a>
 
 
-Lab assignments that apply simple concepts related to mobile robots and visual servoing.
+Lab assignments that apply simple concepts related to mobile robots and visual servoing on CoppeliaSim with codes written in Lua.
 The lab subject is divided into 4 parts :
 
 1. **Control of an omnidirectional robot** / Commande d'un robot omnidirectionnel 
