@@ -17,10 +17,12 @@ The lab subject is divided into 4 parts :
 4. **Image-based visual servo control (IBVS)** / Asservissement visuel basée sur les images
 
 
+# 
+
+3. **Potential fields for trajectory planning**
 
 
-3.
-
+<img alt="Illustration" src="3_Potential fields for trajectory planning/3_potentials_start_update_2026.gif" width="100%" height="100%"> </img>
 
 
 
