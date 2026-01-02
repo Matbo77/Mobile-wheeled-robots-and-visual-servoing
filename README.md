@@ -11,8 +11,8 @@ The lab subject is divided into 4 parts :
 
 1. **Control of an omnidirectional robot** / Commande d'un robot omnidirectionnel 
 2. **Control of a differential drive robot**  / Commande d'un robot à entraînement differentiel 
-2.1 Suivi d'une trajectoire cartésienne 
-2.2 Régulation de position
+ 2.1 Suivi d'une trajectoire cartésienne 
+ 2.2 Régulation de position
 3. **Potential fields for trajectory planning** / Champs de potentiel pour la planification de trajectoire
 4. **Image-based visual servo control (IBVS)** / Asservissement visuel basée sur les images
 
