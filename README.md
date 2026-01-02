@@ -28,6 +28,7 @@ The lab subject is divided into 4 parts :
 <div align="center">
 <img alt="Illustration" src="2_Control of a differential drive robot/monocycle_suiviTrajectoire_start.gif" width="50%" height="50%"> </img>
 </div>
+
    - 2.2 Position control
 <div align="center">
 <img alt="Illustration" src="2_Control of a differential drive robot/monocycle_waypoints_start.gif" width="50%" height="50%"> </img>
