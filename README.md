@@ -8,8 +8,8 @@
 
  <a href= "https://www.coppeliarobotics.com"> <img src="https://www.coppeliarobotics.com/assets/img/coppeliaSim.svg" alt="coppeliaSim" width="25%" height="25%"/></a>
 
-Lab assignments that apply simple concepts related to mobile robots and visual servoing on CoppeliaSim with codes written in Lua.
-The lab subject is divided into 4 parts :
+Lab assignments applying simple concepts related to mobile robots and visual servo control on CoppeliaSim with codes written in Lua.
+The lab subject is divided into 4 parts:
 
 1. **Control of an omnidirectional robot** (Commande d'un robot omnidirectionnel)
 2. **Control of a differential drive robot**  (Commande d'un robot à entraînement differentiel) 
